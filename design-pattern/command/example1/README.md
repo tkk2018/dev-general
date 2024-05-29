@@ -1,4 +1,4 @@
-Check the `BleManager`. Originally, the `Request` doesn't extend the `Operation`. Unfortunately, I have not save before I change it.
+Check the `BleManager`. Originally, the `Request` doesn't extend the `Operation`. Unfortunately, I have not saved before I changed it.
 
 Basically, no need to type cast to execute type specific function. They are move to the their own classes. Make the `execute` of BleManager more cleaner.
 
