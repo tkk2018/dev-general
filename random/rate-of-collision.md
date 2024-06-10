@@ -49,4 +49,5 @@ The solution is simple, just add one more character (pattern: `[a-zA-Z0-9]{9}`).
 
 ## Reference
 
+* https://en.wikipedia.org/wiki/Birthday_problem#Square_approximation
 * https://brilliant.org/wiki/birthday-paradox/
