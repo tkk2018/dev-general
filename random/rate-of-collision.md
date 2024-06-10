@@ -51,3 +51,4 @@ The solution is simple, just add one more character (pattern: `[a-zA-Z0-9]{9}`).
 
 * https://en.wikipedia.org/wiki/Birthday_problem#Square_approximation
 * https://brilliant.org/wiki/birthday-paradox/
+* https://stackoverflow.com/a/41156/16027098
